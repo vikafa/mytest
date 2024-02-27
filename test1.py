@@ -1,1 +1,2 @@
-print("privet,mir!")
+def mytest1():
+    print("privet,mir!")
